@@ -1,10 +1,23 @@
-remote_theme: thagler/thagler.github.io
+remote_theme: BDHU/minimalist
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Tobby Hagler
-# description: The personal website of Tobby Hagler; engineering director and author
+description: The personal website of Tobby Hagler; engineering director and author
 show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Optional settings for the theme
+author:
+  name: Tobby Hagler
+  email: your@email.com
+
+# Color scheme (automatic by default)
+color_scheme: dark  # options: light, dark, auto
 
 # Includes an icon in the footer for each username you enter
 footer-links:
