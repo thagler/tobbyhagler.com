@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tobby Hagler",
+    "description": "",
+    "home_page_url": "https://tobbyhagler.com",
+    "feed_url": "https://tobbyhagler.com/feed.json",
+    "user_comment": "",
+    "icon": "https://tobbyhagler.com/media/website/tobbyhagler-logo-white.png",
+    "author": {
+        "name": "Tobby Hagler"
+    },
+    "items": [
+    ]
+}

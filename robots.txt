@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tobbyhagler.com/sitemap.xml
