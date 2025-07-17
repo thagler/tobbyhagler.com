@@ -10,5 +10,20 @@
         "name": "Tobby Hagler"
     },
     "items": [
+        {
+            "id": "https://tobbyhagler.com/announcing-kozy-krampus.html",
+            "url": "https://tobbyhagler.com/announcing-kozy-krampus.html",
+            "title": "Announcing Kozy Krampus",
+            "summary": "I'm more excited than a demon with a sack full of kids!&hellip;",
+            "content_html": "<p>I'm more excited than a demon with a sack full of kids!</p>\n<p>My first published short story will appear in <strong><em data-start=\"255\" data-end=\"269\">Kozy Krampus</em></strong>, an anthology of 29 delightfully twisted tales featuring the horned holiday menace himself. The collection drops late September, just in time to curl up with a mug of something warm and a healthy fear of hooves on the rooftop.</p>\n<p>So drop what you're doing and go <a href=\"https://firebirdcreative.myshopify.com/products/kozy-krampus\" title=\"Pre-order Kozy Krampus\" target=\"_blank\" rel=\"noopener noreferrer\">pre-order</a> now! Or don’t. That’s up to you.<br data-start=\"721\" data-end=\"724\">But remember: Krampus thinks disobedient children taste the best.</p>\n<hr>\n<p>Mark Teppo and Frances Lu-Pai Ippolito, eds., <em data-start=\"381\" data-end=\"395\">Kozy Krampus</em> (Portland, OR: Underland Press, 2025).</p>",
+            "author": {
+                "name": "Tobby Hagler"
+            },
+            "tags": [
+                   "Writing"
+            ],
+            "date_published": "2025-07-17T10:53:18-04:00",
+            "date_modified": "2025-07-17T11:04:22-04:00"
+        }
     ]
 }
