@@ -3,12 +3,57 @@
     <title>Tobby Hagler</title>
     <link href="https://tobbyhagler.com/feed.xml" rel="self" />
     <link href="https://tobbyhagler.com" />
-    <updated>2025-07-18T21:49:32-04:00</updated>
+    <updated>2025-07-22T00:42:04-04:00</updated>
     <author>
         <name>Tobby Hagler</name>
     </author>
     <id>https://tobbyhagler.com</id>
 
+    <entry>
+        <title>Sourdough Starter Experiment</title>
+        <author>
+            <name>Tobby Hagler</name>
+        </author>
+        <link href="https://tobbyhagler.com/posts/sourdough-starter-experiment/"/>
+        <id>https://tobbyhagler.com/posts/sourdough-starter-experiment/</id>
+
+        <updated>2025-07-22T00:42:04-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>I've finally found some great formulas with sourdough starters that work for me.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I've finally found some great formulas with sourdough starters that work for me.</p>
+
+<p>I've experimented with sourdough starters before, but they ultimately fail because of neglect or impatience. One of my latest sets was no exception. I had two nearly-viable starters after several weeks of feeding (the first was over a month) with still no luck. I tried feeding variations—different ratios, hydration levels, and flour mixes—but only ever saw a slight rise from them. Eventually, I inadvertently killed them by leaving them in the oven with the light on for too long, and they spoiled.</p>
+<p>Based on what I've learned about sourdough chemistry (the yeast, the LAB, how feeding and hydration ratios make a difference, here's what finally worked for me. I'm currently growing two amazing starters after only two days.</p>
+<h2>Tips for the noobs</h2>
+<p>Sourdough requires a kitchen scale. Ratios are based on weight, not volume, so ditch anything that uses the ambiguous "ounce" as a measurement. Convert to grams—this <em>is</em> science, after all, which requires the metric system.</p>
+<p>Ratios are expressed as starter-to-flour-to-water, or X:Y:Z. A good practice is to place a clean jar on your scale and tare it to zero. Pour 20 grams of your spent starter into the jar and discard the rest (pro-tip: search for "sourdough discard pancake recipe"). Early days of a starter call for a 1:1:1 ratio: 20 grams of spent starter, 20 grams of water, and 20 grams of flour. Stir well, cover loosely, and let it sit.</p>
+<p>Measure the weight of your empty jars beforehand. You'll thank me later.</p>
+<p>Another tip is to use an old hair band or a rubber band to mark the level. This way you can see how high it rises over time. Dry erase markers also work well.</p>
+<h2>Starter #1: Zymia</h2>
+<p>Yeast water + rye and wheat flour.</p>
+<p>A week prior, I started some yeast water (originally intended to feed one of the previous starters that was struggling). This consists of a handful of raisins in a jar of filtered water from the fridge and a tablespoon of honey. Stir, shake, and let sit for a week. When it's slightly fizzy when shaken, and before the raisin skins flake off, it's ready. It'll have a slightly sweet, hard cider-like smell to it, and a light, golden-brown color that's not cloudy.</p>
+<p>My starter consisted of 30 grams of whole wheat flour and 30 grams of yeast water; a 1:1 starter ratio.</p>
+<p>A day later, it rose a little before falling. When I fed it, I didn't discard anything. Instead, I tared the still-full jar and removed it, giving me the weight of the starter once I added the jar's empty weight. In my case, it was around 60 grams of starter. I fed it at a ratio of 1:1:1—60 grams of the spent starter, 60 grams of wheat flour, and 60 grams of yeast water.</p>
+<p>The next day, it had nearly doubled in height, with lots of hardy bubbles and a decent dome. That's impressive in only two days.</p>
+<p>And it smells so sweet. The familiar sourdough tang is there, along with a cider aroma that's so unique to the yeast water.</p>
+<h2>Starter #2: Rhyza</h2>
+<p>This one was more traditional. It was a simple 1:1 ratio of 20 grams of rye flour and 10 grams of wheat flour, and 30 grams of filtered water. The first feeding was a 1:1:1 ratio of all 60 grams of the spent starter, 40 grams of rye flour mixed with 20 grams of wheat flour, and 60 grams of filtered water.</p>
+<p>At the same time as Zymia's nearly doubled rise, Rhyza had almost tripled in height! I was almost afraid it would expand out of the jar. Thankfully, it reached its peak just before reaching the lid.</p>
+<h2>Next steps</h2>
+<p>I'll update this blog over time with the progress of these experiments. So far, they're off to great starts.</p>
+<p>I will discard and feed them again in the morning, using 1:1:1 of their respective makeup, and re-evaluate in the evening. I will discard all but 20 grams of the starter, so my flour and water will also be 20 grams each.</p>
+<p>With the discard of tomorrow evening's feeding (whichever seems the most active), I will make bread. I'll start by feeding the discard with a 1:0.5:0.5 ratio and using the resulting levain to start the bread dough. I estimate that the bread dough will take 8-10 hours, so I'll let it rise overnight. </p>
+<p>If it's successful, I'll post the recipe.</p>
+<p>Wish me luck!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Grove is Delayed Again</title>
         <author>
@@ -30,7 +75,7 @@
                 <p>...But that's actually a good thing.</p>
 
 <p>I've been a writer for years, and <em>The Grove of Tau Ceti</em> is my first (finished) novel. I'm really happy with it, too. It took a long time to get here, but I'm now one click away from being a published sci-fi author. I even have physical copies with fantastic cover art by <a href="https://nikwilets.com/">Nik Wilets</a>.</p>
-<p>With the help of JB Kish and his <a href="https://www.writingmilestones.com/">Writing Milestones</a> project, I could see the path from writer to author. Publication day was <em>initially</em> May 23. With a deadline set—and nothing motivates me more than beating a deadline—we crafted the complete plan I needed to write <em>and publish</em> a novel.</p>
+<p>With the help of JB Kish and his <a href="https://www.writingmilestones.com/">Writing Milestones</a> coaching, I could see the path from writer to author. Publication day was <em>initially</em> May 23. With a deadline set—and nothing motivates me more than beating a deadline—we crafted the complete plan I needed to write <em>and publish</em> a novel.</p>
 <p>For every milestone reached, I loved the story and its characters even more (except Hector). So when the manuscript came back from my editor, I sent query letters to a few literary agents. You know... because why not?</p>
 <p>My stack of rejection letters grew fast. And that's okay. Rejection letters mean you're putting in the work. Right?</p>
 <p>Then I got a few of the kind that say, "I love the premise, but it's not what I'm looking for right now." That's still a no, but at least it's an encouraging no. So I kept at it.</p>
