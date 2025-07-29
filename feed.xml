@@ -3,7 +3,7 @@
     <title>Tobby Hagler</title>
     <link href="https://tobbyhagler.com/feed.xml" rel="self" />
     <link href="https://tobbyhagler.com" />
-    <updated>2025-07-22T00:42:04-04:00</updated>
+    <updated>2025-07-29T19:22:28-04:00</updated>
     <author>
         <name>Tobby Hagler</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://tobbyhagler.com/posts/sourdough-starter-experiment/"/>
         <id>https://tobbyhagler.com/posts/sourdough-starter-experiment/</id>
+            <category term="Sourdough"/>
 
         <updated>2025-07-22T00:42:04-04:00</updated>
             <summary>
