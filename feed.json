@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://tobbyhagler.com/posts/for-goodreads/",
+            "url": "https://tobbyhagler.com/posts/for-goodreads/",
+            "title": "For Goodreads",
+            "summary": "My email address is tobby@tobbyhagler.com ",
+            "content_html": "<p>My email address is <a href=\"mailto:tobby@go\">tobby@tobbyhagler.com </a></p>",
+            "author": {
+                "name": "Tobby Hagler"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-03T22:28:29-05:00",
+            "date_modified": "2025-12-03T22:28:29-05:00"
+        },
+        {
             "id": "https://tobbyhagler.com/posts/the-grove-of-tau-ceti-releases-tonight/",
             "url": "https://tobbyhagler.com/posts/the-grove-of-tau-ceti-releases-tonight/",
             "title": "The Grove of Tau Ceti releases tonight",
