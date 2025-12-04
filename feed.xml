@@ -3,32 +3,12 @@
     <title>Tobby Hagler</title>
     <link href="https://tobbyhagler.com/feed.xml" rel="self" />
     <link href="https://tobbyhagler.com" />
-    <updated>2025-12-03T22:28:29-05:00</updated>
+    <updated>2025-10-22T22:13:31-04:00</updated>
     <author>
         <name>Tobby Hagler</name>
     </author>
     <id>https://tobbyhagler.com</id>
 
-    <entry>
-        <title>For Goodreads</title>
-        <author>
-            <name>Tobby Hagler</name>
-        </author>
-        <link href="https://tobbyhagler.com/posts/for-goodreads/"/>
-        <id>https://tobbyhagler.com/posts/for-goodreads/</id>
-
-        <updated>2025-12-03T22:28:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    My email address is tobby@tobbyhagler.com 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>My email address is <a href="mailto:tobby@go">tobby@tobbyhagler.com </a></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>The Grove of Tau Ceti releases tonight</title>
         <author>
