@@ -3,7 +3,7 @@
     <title>Tobby Hagler</title>
     <link href="https://tobbyhagler.com/feed.xml" rel="self" />
     <link href="https://tobbyhagler.com" />
-    <updated>2025-12-20T16:47:07-05:00</updated>
+    <updated>2025-12-20T17:00:40-05:00</updated>
     <author>
         <name>Tobby Hagler</name>
     </author>
@@ -115,20 +115,24 @@
         </author>
         <link href="https://tobbyhagler.com/posts/sourdough-starter-experiment/"/>
         <id>https://tobbyhagler.com/posts/sourdough-starter-experiment/</id>
+        <media:content url="https://tobbyhagler.com/media/posts/9/IMG_5568-Medium-2.jpeg" medium="image" />
             <category term="Sourdough"/>
 
         <updated>2025-07-22T00:42:04-04:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://tobbyhagler.com/media/posts/9/IMG_5568-Medium-2.jpeg" alt="" />
                     <p>I've finally found some great formulas with sourdough starters that work for me.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://tobbyhagler.com/media/posts/9/IMG_5568-Medium-2.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>I've finally found some great formulas with sourdough starters that work for me.</p>
 
 <p>I've experimented with sourdough starters before, but they ultimately fail because of neglect or impatience. One of my latest sets was no exception. I had two nearly-viable starters after several weeks of feeding (the first was over a month) with still no luck. I tried feeding variations—different ratios, hydration levels, and flour mixes—but only ever saw a slight rise from them. Eventually, I inadvertently killed them by leaving them in the oven with the light on for too long, and they spoiled.</p>
+<figure class="post__image"><img loading="lazy"  src="https://tobbyhagler.com/media/posts/9/IMG_5568-Medium.jpeg" alt="Side-by-side comparisons of starters" width="640" height="480" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://tobbyhagler.com/media/posts/9/responsive/IMG_5568-Medium-xs.jpeg 320w ,https://tobbyhagler.com/media/posts/9/responsive/IMG_5568-Medium-sm.jpeg 480w ,https://tobbyhagler.com/media/posts/9/responsive/IMG_5568-Medium-md.jpeg 768w ,https://tobbyhagler.com/media/posts/9/responsive/IMG_5568-Medium-xl.jpeg 1024w"></figure>
 <p>Based on what I've learned about sourdough chemistry (the yeast, the LAB, how feeding and hydration ratios make a difference, here's what finally worked for me. I'm currently growing two amazing starters after only two days.</p>
 <h2>Tips for the noobs</h2>
 <p>Sourdough requires a kitchen scale. Ratios are based on weight, not volume, so ditch anything that uses the ambiguous "ounce" as a measurement. Convert to grams—this <em>is</em> science, after all, which requires the metric system.</p>
