@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://tobbyhagler.com/posts/latest-sourdough-loaf/",
+            "url": "https://tobbyhagler.com/posts/latest-sourdough-loaf/",
+            "title": "Latest Sourdough Loaf",
+            "summary": "I just took this loaf out of the oven. I've almost got&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://tobbyhagler.com/media/posts/15/gallery/IMG_5866.jpeg\" data-size=\"2644x3522\"><img loading=\"lazy\" src=\"https://tobbyhagler.com/media/posts/15/gallery/IMG_5866-thumbnail.jpeg\" alt=\"Close-up view of a sourdough loaf's ear\" width=\"768\" height=\"1023\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://tobbyhagler.com/media/posts/15/gallery/IMG_5871.jpeg\" data-size=\"3176x2382\"><img loading=\"lazy\" src=\"https://tobbyhagler.com/media/posts/15/gallery/IMG_5871-thumbnail.jpeg\" alt=\"Slide view of a sourdough small lamé marks\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://tobbyhagler.com/media/posts/15/gallery/IMG_5872.jpeg\" data-size=\"2638x2638\"><img loading=\"lazy\" src=\"https://tobbyhagler.com/media/posts/15/gallery/IMG_5872-thumbnail.jpeg\" alt=\"Top view of a sourdough loaf's ear and lamé cuts\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n<p>I just took this loaf out of the oven. I've almost got the timing down, but not quite there, yet. I think it needed 2-3 more minutes on the second half, after taking the lid off the Dutch oven.</p>\n<p>I'm starting to get a handle on the lamé leaves; the ear is decent, but I never seem to get the angle just right. I think next time, I'll soak the lamé knife in ice water before scoring it.</p>",
+            "author": {
+                "name": "Tobby Hagler"
+            },
+            "tags": [
+                   "Sourdough"
+            ],
+            "date_published": "2025-12-20T16:26:26-05:00",
+            "date_modified": "2025-12-20T16:26:26-05:00"
+        },
+        {
             "id": "https://tobbyhagler.com/posts/the-grove-of-tau-ceti-releases-tonight/",
             "url": "https://tobbyhagler.com/posts/the-grove-of-tau-ceti-releases-tonight/",
             "title": "The Grove of Tau Ceti releases tonight",
