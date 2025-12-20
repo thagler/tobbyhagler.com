@@ -3,7 +3,7 @@
     <title>Tobby Hagler</title>
     <link href="https://tobbyhagler.com/feed.xml" rel="self" />
     <link href="https://tobbyhagler.com" />
-    <updated>2025-12-20T16:26:26-05:00</updated>
+    <updated>2025-12-20T16:33:09-05:00</updated>
     <author>
         <name>Tobby Hagler</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://tobbyhagler.com/posts/latest-sourdough-loaf/"/>
         <id>https://tobbyhagler.com/posts/latest-sourdough-loaf/</id>
+        <media:content url="https://tobbyhagler.com/media/posts/15/IMG_5866-2.jpeg" medium="image" />
             <category term="Sourdough"/>
 
         <updated>2025-12-20T16:26:26-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://tobbyhagler.com/media/posts/15/IMG_5866-2.jpeg" alt="" />
                     I just took this loaf out of the oven. I've almost got&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://tobbyhagler.com/media/posts/15/IMG_5866-2.jpeg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://tobbyhagler.com/media/posts/15/gallery/IMG_5866.jpeg" data-size="2644x3522"><img loading="lazy" src="https://tobbyhagler.com/media/posts/15/gallery/IMG_5866-thumbnail.jpeg" alt="Close-up view of a sourdough loaf's ear" width="768" height="1023"></a></figure>
 <figure class="gallery__item"><a href="https://tobbyhagler.com/media/posts/15/gallery/IMG_5871.jpeg" data-size="3176x2382"><img loading="lazy" src="https://tobbyhagler.com/media/posts/15/gallery/IMG_5871-thumbnail.jpeg" alt="Slide view of a sourdough small lamé marks" width="768" height="576"></a></figure>
