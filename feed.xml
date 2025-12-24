@@ -3,7 +3,7 @@
     <title>Tobby Hagler</title>
     <link href="https://tobbyhagler.com/feed.xml" rel="self" />
     <link href="https://tobbyhagler.com" />
-    <updated>2025-12-24T12:29:57-05:00</updated>
+    <updated>2025-12-24T14:12:21-05:00</updated>
     <author>
         <name>Tobby Hagler</name>
     </author>
@@ -77,16 +77,21 @@
         </author>
         <link href="https://tobbyhagler.com/posts/frankie-is-officially-over-it/"/>
         <id>https://tobbyhagler.com/posts/frankie-is-officially-over-it/</id>
+        <media:content url="https://tobbyhagler.com/media/posts/17/IMG_5645-Medium.jpeg" medium="image" />
+            <category term="Frankie"/>
+            <category term="Dogs"/>
 
         <updated>2025-09-30T11:43:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://tobbyhagler.com/media/posts/17/IMG_5645-Medium.jpeg" alt="" />
                     <p>Here are some pictures of Frankie, demonstrating just how much he is <em>over it</em> on any given day.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://tobbyhagler.com/media/posts/17/IMG_5645-Medium.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Here are some pictures of Frankie, demonstrating just how much he is <em>over it</em> on any given day.</p>
 
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
@@ -97,6 +102,7 @@
 <figure class="gallery__item"><a href="https://tobbyhagler.com/media/posts/17/gallery/IMG_5513-Medium.jpeg" data-size="640x640"><img loading="lazy" src="https://tobbyhagler.com/media/posts/17/gallery/IMG_5513-Medium-thumbnail.jpeg" alt="Frankie with his head tucked" width="640" height="640"></a></figure>
 <figure class="gallery__item"><a href="https://tobbyhagler.com/media/posts/17/gallery/IMG_5258-Medium.jpeg" data-size="640x640"><img loading="lazy" src="https://tobbyhagler.com/media/posts/17/gallery/IMG_5258-Medium-thumbnail.jpeg" alt="Frankie with his head tucked" width="640" height="640"></a></figure>
 </div></div>
+<p>Ginger and Declan are also pretty much over it.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://tobbyhagler.com/media/posts/17/gallery/IMG_5761-Medium.jpeg" data-size="640x481"><img loading="lazy" src="https://tobbyhagler.com/media/posts/17/gallery/IMG_5761-Medium-thumbnail.jpeg" alt="Ginger hiding under a chair" width="640" height="481"></a>
 <figcaption>Ginger is over it at the vet</figcaption>
@@ -105,6 +111,7 @@
 <figcaption>Declan is also over it</figcaption>
 </figure>
 </div></div>
+<p> </p>
             ]]>
         </content>
     </entry>
