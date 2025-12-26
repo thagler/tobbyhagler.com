@@ -27,6 +27,37 @@
             "date_modified": "2025-12-20T16:33:09-05:00"
         },
         {
+            "id": "https://tobbyhagler.com/posts/query-current-level-of-over-it/",
+            "url": "https://tobbyhagler.com/posts/query-current-level-of-over-it/",
+            "title": "Query: Current Level of &#x27;Over It&#x27;",
+            "summary": "Nothing says it more clearly than a dog who is over it.",
+            "content_html": "<p>Nothing says it more clearly than a dog who is over it.</p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://tobbyhagler.com/media/posts/23/gallery/Ginger-over-it.jpeg\" data-size=\"640x480\"><img loading=\"lazy\" src=\"https://tobbyhagler.com/media/posts/23/gallery/Ginger-over-it-thumbnail.jpeg\" alt=\"Ginger hides her face in a purple pillow, underneath a navy blue blanket\" width=\"640\" height=\"480\"></a>\n<figcaption>Ginger writes to inform you that she is over it. Honk, shoo, and good day!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://tobbyhagler.com/media/posts/23/gallery/Declan-on-clouds.jpeg\" data-size=\"480x640\"><img loading=\"lazy\" src=\"https://tobbyhagler.com/media/posts/23/gallery/Declan-on-clouds-thumbnail.jpeg\" alt=\"Declan resting on two white pillows\" width=\"480\" height=\"640\"></a>\n<figcaption>Declan dreams on floating clouds.</figcaption>\n</figure>\n</div></div>",
+            "image": "https://tobbyhagler.com/media/posts/23/Ginger-over-it.jpeg",
+            "author": {
+                "name": "Tobby Hagler"
+            },
+            "tags": [
+                   "Dogs"
+            ],
+            "date_published": "2025-10-30T15:38:00-04:00",
+            "date_modified": "2025-12-26T15:39:10-05:00"
+        },
+        {
+            "id": "https://tobbyhagler.com/posts/a-note-on-keeping-two-projects-alive/",
+            "url": "https://tobbyhagler.com/posts/a-note-on-keeping-two-projects-alive/",
+            "title": "A Note on Keeping Two Projects Alive",
+            "summary": "People sometimes ask how I juggle multiple writing projects, and the answer&hellip;",
+            "content_html": "<p data-start=\"314\" data-end=\"664\">People sometimes ask how I juggle multiple writing projects, and the answer is, \"badly, but with commitment.\" I’ve learned that when one story is being stubborn, the best thing I can do is let it sulk in a corner until it comes to its senses and decides to let me work it again. It turns out jealousy and FOMO are powerful creative motivators.</p>\n<p data-start=\"666\" data-end=\"1057\">Keeping at least two things alive at once keeps me out of the existential gooey-center of “I must make progress on the 'One Big Thing™' or I am failing at life somehow.” Instead, I can rotate projects like a lazy susan of narrative chaos. If characters from my latest novel aren't cooperating, I can go talk to the goblins. If the goblins are quiet (they rarely are quiet, but they do shut me out frequently), I can work on a flash fiction piece for a contest or an open call with a specific prompt.</p>\n<p data-start=\"1059\" data-end=\"1107\">So, what’s currently breathing in the ole brainpan?</p>\n<ul data-start=\"1109\" data-end=\"1590\">\n<li data-start=\"1109\" data-end=\"1227\">\n<p data-start=\"1111\" data-end=\"1227\"><strong><em>The Grove</em> sequel</strong><br data-start=\"1131\" data-end=\"1134\">Most of the crew is back, and the stakes are galactically existential. Because of course they are.</p>\n</li>\n<li data-start=\"1228\" data-end=\"1332\">\n<p data-start=\"1230\" data-end=\"1332\"><strong><em>Frankie and the Goblin King</em></strong><br data-start=\"1261\" data-end=\"1264\">Frankie’s leg is fine, but his patience with the deposed goblin king who inhabits one? Contested even on the best of days.</p>\n</li>\n<li data-start=\"1333\" data-end=\"1461\">\n<p data-start=\"1335\" data-end=\"1461\"><strong data-start=\"1335\" data-end=\"1373\">A cluster of short stories + flash</strong><br data-start=\"1373\" data-end=\"1376\">They’re out there in the world trying to get adopted by various lit mags. Wish them luck.</p>\n</li>\n<li data-start=\"1462\" data-end=\"1590\">\n<p data-start=\"1464\" data-end=\"1590\"><em><strong data-start=\"1464\" data-end=\"1514\">Station and Gary</strong></em><br data-start=\"1514\" data-end=\"1517\">Station built Gary because it was lonely. But Gary is an asshole and now Station has two problems.</p>\n</li>\n</ul>\n<p data-start=\"1592\" data-end=\"1850\">Keeping multiple projects alive isn’t multitasking; it’s survival. When one story is stuck in cold fermentation, another one usually starts to rise. And I don’t need everything to bake at once. I just need to make sure nothing dies in the back of the mental fridge.</p>",
+            "author": {
+                "name": "Tobby Hagler"
+            },
+            "tags": [
+                   "Writing"
+            ],
+            "date_published": "2025-10-25T17:37:00-04:00",
+            "date_modified": "2025-12-25T17:38:06-05:00"
+        },
+        {
             "id": "https://tobbyhagler.com/posts/the-grove-of-tau-ceti-releases-tonight/",
             "url": "https://tobbyhagler.com/posts/the-grove-of-tau-ceti-releases-tonight/",
             "title": "The Grove of Tau Ceti releases tonight",
@@ -52,9 +83,10 @@
                 "name": "Tobby Hagler"
             },
             "tags": [
+                   "Writing"
             ],
             "date_published": "2025-10-20T17:55:00-04:00",
-            "date_modified": "2025-12-24T18:19:33-05:00"
+            "date_modified": "2025-12-25T17:24:58-05:00"
         },
         {
             "id": "https://tobbyhagler.com/posts/why-i-like-cold-fermentation/",
@@ -135,38 +167,6 @@
             ],
             "date_published": "2025-09-25T19:13:00-04:00",
             "date_modified": "2025-12-24T10:51:43-05:00"
-        },
-        {
-            "id": "https://tobbyhagler.com/posts/kozy-krampus-drops-today/",
-            "url": "https://tobbyhagler.com/posts/kozy-krampus-drops-today/",
-            "title": "Kozy Krampus Drops Today!",
-            "summary": "I'm excited to announce that my first published fiction dropped today! I'm&hellip;",
-            "content_html": "<div class=\"wtfDPiMltYwXrDPGMMqXQLGuSdedKjcRGXE\" tabindex=\"-1\">\n<div class=\"feed-shared-inline-show-more-text\n        feed-shared-update-v2__description feed-shared-inline-show-more-text--minimal-padding\n        \n        feed-shared-inline-show-more-text--3-lines\n        feed-shared-inline-show-more-text--expanded\n        \n        \n        \" tabindex=\"-1\" data-artdeco-is-focused=\"true\">\n<div class=\"update-components-text relative update-components-update-v2__commentary \" dir=\"ltr\"><span class=\"break-words\n          tvm-parent-container\"> <span dir=\"ltr\">I'm excited to announce that my first published fiction dropped today! I'm lucky enough to share the pages with 28 amazingly talented writers in Kozy Krampus, an anthology of cozy cosmic holiday horror short stories.<br><br>Check it out: <a href=\"https://www.underlandpress.com/kozy-krampus/\">https://www.underlandpress.com/kozy-krampus/</a> </span></span></div>\n<div class=\"update-components-text relative update-components-update-v2__commentary \" dir=\"ltr\"><span class=\"break-words\n          tvm-parent-container\"><span dir=\"ltr\">Order: <a href=\"https://firebirdcreative.myshopify.com/products/kozy-krampus\" title=\"\">print</a> or <a href=\"https://weightlessbooks.com/kozy-krampus/\" title=\"\">ebook</a><br><br>I'm also thrilled to say that this is just the first of several fiction publications in the coming months, so stay tuned!</span> </span></div>\n</div>\n</div>",
-            "image": "https://tobbyhagler.com/media/posts/12/Screenshot-2025-12-20-at-4.45.22-PM.png",
-            "author": {
-                "name": "Tobby Hagler"
-            },
-            "tags": [
-                   "Writing"
-            ],
-            "date_published": "2025-09-23T09:37:00-04:00",
-            "date_modified": "2025-12-20T16:45:45-05:00"
-        },
-        {
-            "id": "https://tobbyhagler.com/posts/sourdough-starter-experiment/",
-            "url": "https://tobbyhagler.com/posts/sourdough-starter-experiment/",
-            "title": "Sourdough Starter Experiment",
-            "summary": "<p>I've finally found some great formulas with sourdough starters that work for me.</p>\n",
-            "content_html": "<p>I've finally found some great formulas with sourdough starters that work for me.</p>\n\n<p>I've experimented with sourdough starters before, but they ultimately fail because of neglect or impatience. One of my latest sets was no exception. I had two nearly-viable starters after several weeks of feeding (the first was over a month) with still no luck. I tried feeding variations—different ratios, hydration levels, and flour mixes—but only ever saw a slight rise from them. Eventually, I inadvertently killed them by leaving them in the oven with the light on for too long, and they spoiled.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tobbyhagler.com/media/posts/9/IMG_5568-Medium.jpeg\" alt=\"Side-by-side comparisons of starters\" width=\"640\" height=\"480\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://tobbyhagler.com/media/posts/9/responsive/IMG_5568-Medium-xs.jpeg 320w ,https://tobbyhagler.com/media/posts/9/responsive/IMG_5568-Medium-sm.jpeg 480w ,https://tobbyhagler.com/media/posts/9/responsive/IMG_5568-Medium-md.jpeg 768w ,https://tobbyhagler.com/media/posts/9/responsive/IMG_5568-Medium-xl.jpeg 1024w\"></figure>\n<p>Based on what I've learned about sourdough chemistry (the yeast, the LAB, how feeding and hydration ratios make a difference, here's what finally worked for me. I'm currently growing two amazing starters after only two days.</p>\n<h2>Tips for the noobs</h2>\n<p>Sourdough requires a kitchen scale. Ratios are based on weight, not volume, so ditch anything that uses the ambiguous \"ounce\" as a measurement. Convert to grams—this <em>is</em> science, after all, which requires the metric system.</p>\n<p>Ratios are expressed as starter-to-flour-to-water, or X:Y:Z. A good practice is to place a clean jar on your scale and tare it to zero. Pour 20 grams of your spent starter into the jar and discard the rest (pro-tip: search for \"sourdough discard pancake recipe\"). Early days of a starter call for a 1:1:1 ratio: 20 grams of spent starter, 20 grams of water, and 20 grams of flour. Stir well, cover loosely, and let it sit.</p>\n<p>Measure the weight of your empty jars beforehand. You'll thank me later.</p>\n<p>Another tip is to use an old hair band or a rubber band to mark the level. This way you can see how high it rises over time. Dry erase markers also work well.</p>\n<h2>Starter #1: Zymia</h2>\n<p>Yeast water + rye and wheat flour.</p>\n<p>A week prior, I started some yeast water (originally intended to feed one of the previous starters that was struggling). This consists of a handful of raisins in a jar of filtered water from the fridge and a tablespoon of honey. Stir, shake, and let sit for a week. When it's slightly fizzy when shaken, and before the raisin skins flake off, it's ready. It'll have a slightly sweet, hard cider-like smell to it, and a light, golden-brown color that's not cloudy.</p>\n<p>My starter consisted of 30 grams of whole wheat flour and 30 grams of yeast water; a 1:1 starter ratio.</p>\n<p>A day later, it rose a little before falling. When I fed it, I didn't discard anything. Instead, I tared the still-full jar and removed it, giving me the weight of the starter once I added the jar's empty weight. In my case, it was around 60 grams of starter. I fed it at a ratio of 1:1:1—60 grams of the spent starter, 60 grams of wheat flour, and 60 grams of yeast water.</p>\n<p>The next day, it had nearly doubled in height, with lots of hardy bubbles and a decent dome. That's impressive in only two days.</p>\n<p>And it smells so sweet. The familiar sourdough tang is there, along with a cider aroma that's so unique to the yeast water.</p>\n<h2>Starter #2: Rhyza</h2>\n<p>This one was more traditional. It was a simple 1:1 ratio of 20 grams of rye flour and 10 grams of wheat flour, and 30 grams of filtered water. The first feeding was a 1:1:1 ratio of all 60 grams of the spent starter, 40 grams of rye flour mixed with 20 grams of wheat flour, and 60 grams of filtered water.</p>\n<p>At the same time as Zymia's nearly doubled rise, Rhyza had almost tripled in height! I was almost afraid it would expand out of the jar. Thankfully, it reached its peak just before reaching the lid.</p>\n<h2>Next steps</h2>\n<p>I'll update this blog over time with the progress of these experiments. So far, they're off to great starts.</p>\n<p>I will discard and feed them again in the morning, using 1:1:1 of their respective makeup, and re-evaluate in the evening. I will discard all but 20 grams of the starter, so my flour and water will also be 20 grams each.</p>\n<p>With the discard of tomorrow evening's feeding (whichever seems the most active), I will make bread. I'll start by feeding the discard with a 1:0.5:0.5 ratio and using the resulting levain to start the bread dough. I estimate that the bread dough will take 8-10 hours, so I'll let it rise overnight. </p>\n<p>If it's successful, I'll post the recipe.</p>\n<p>Wish me luck!</p>",
-            "image": "https://tobbyhagler.com/media/posts/9/IMG_5568-Medium-2.jpeg",
-            "author": {
-                "name": "Tobby Hagler"
-            },
-            "tags": [
-                   "Sourdough"
-            ],
-            "date_published": "2025-07-22T00:42:04-04:00",
-            "date_modified": "2025-12-20T17:00:40-05:00"
         }
     ]
 }
