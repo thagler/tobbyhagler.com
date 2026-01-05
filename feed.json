@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://tobbyhagler.com/posts/the-lies-we-tell-bananas/",
+            "url": "https://tobbyhagler.com/posts/the-lies-we-tell-bananas/",
+            "title": "The Lies We Tell Bananas",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tobbyhagler.com/media/posts/33/lied-to-bananas.jpeg\" alt=\"Silhouette of three overly-ripe bananas with a sticky note saying they will be banana bread\" width=\"1280\" height=\"1280\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://tobbyhagler.com/media/posts/33/responsive/lied-to-bananas-xs.jpeg 320w ,https://tobbyhagler.com/media/posts/33/responsive/lied-to-bananas-sm.jpeg 480w ,https://tobbyhagler.com/media/posts/33/responsive/lied-to-bananas-md.jpeg 768w ,https://tobbyhagler.com/media/posts/33/responsive/lied-to-bananas-xl.jpeg 1024w\"></figure>",
+            "image": "https://tobbyhagler.com/media/posts/33/lied-to-bananas-2.jpeg",
+            "author": {
+                "name": "Tobby Hagler"
+            },
+            "tags": [
+                   "Sourdough"
+            ],
+            "date_published": "2026-01-04T21:01:00-05:00",
+            "date_modified": "2026-01-04T21:02:37-05:00"
+        },
+        {
             "id": "https://tobbyhagler.com/posts/latest-sourdough-loaf/",
             "url": "https://tobbyhagler.com/posts/latest-sourdough-loaf/",
             "title": "Latest Sourdough Loaf",
@@ -145,22 +160,6 @@
             ],
             "date_published": "2025-11-05T19:24:00-05:00",
             "date_modified": "2025-12-27T15:13:59-05:00"
-        },
-        {
-            "id": "https://tobbyhagler.com/posts/reading-dough-with-your-hands/",
-            "url": "https://tobbyhagler.com/posts/reading-dough-with-your-hands/",
-            "title": "Reading Dough With Your Hands",
-            "summary": "<p>Dough obeys biochemistry and physics, not calendars. Yeast ferments at the speed the environment allows. Gluten organizes as you move it. Proofing is a sensory process: your hands receive real-time data that the schedule can’t provide.</p>\n",
-            "content_html": "<p>Dough obeys biochemistry and physics, not calendars. Yeast ferments at the speed the environment allows. Gluten organizes as you move it. Proofing is a sensory process: your hands receive real-time data that the schedule can’t provide.</p>\n\n<p data-start=\"558\" data-end=\"1089\">I’m making kolaches today. The dough started soft and buttery because fats coat and lubricate gluten-forming proteins, slowing their ability to link up. As I mixed and switched to coil folds (pick up gently, stretch using only gravity as tension, fold it over itself a few times, then a final gentle tuck), those long gluten molecules began aligning into a network.</p>\n<p data-start=\"558\" data-end=\"1089\">You can feel its status and progress just by handling it.</p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\" src=\"https://tobbyhagler.com/media/posts/24/IMG_5934-Medium-2.jpeg\" alt=\"Sourdough kolache dough rising in a bowl, done with folds.\" width=\"640\" height=\"640\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://tobbyhagler.com/media/posts/24/responsive/IMG_5934-Medium-2-xs.jpeg 320w ,https://tobbyhagler.com/media/posts/24/responsive/IMG_5934-Medium-2-sm.jpeg 480w ,https://tobbyhagler.com/media/posts/24/responsive/IMG_5934-Medium-2-md.jpeg 768w ,https://tobbyhagler.com/media/posts/24/responsive/IMG_5934-Medium-2-xl.jpeg 1024w\">\n<figcaption>Sourdough kolache dough rising in a bowl, done with folds.</figcaption>\n</figure>\n<p data-start=\"558\" data-end=\"1089\">When it stretches before tearing, it means gluten strands are bonding and creating elasticity. When it tears or feels mushy, the protein matrix isn’t fully crosslinked yet, or it’s overwhelmed by fat and needs a bit longer to relax.</p>\n<p data-start=\"1091\" data-end=\"1499\">Warm dough, especially early in the proofing process, can be hard to judge. It's soft, and you're not sure if it's getting stronger or falling apart. A short cold proof can help with getting to know the dough better.</p>\n<p data-start=\"1091\" data-end=\"1499\">Cold proofing slows yeast activity because temperature affects metabolic rate. (Microbes are creatures of vibes.) While the yeast chills out, enzymes snip starch into sugars, giving the yeast fresh food when things warm back up. When the dough returns to room temperature and suddenly feels smoother and springier? That’s gluten continuing to strengthen even while “nothing” appeared to be happening.</p>\n<p data-start=\"1501\" data-end=\"1927\">Work it for a bit longer. See how it feels. Stop folding when the dough has enough structure to handle gas expansion. If it pushes back against your hands, that’s elasticity saying, “Yo dawg, I’m all good now.” If it slumps, extensibility is winning, and you can help gluten realign with a gentle coil fold or a cardinal stretch-and-fold. When it’s cohesive, warm, and slightly proud of itself... it has gas retention + surface tension + good fermentation... step away. It's on autopilot now.</p>\n<h3 data-start=\"1501\" data-end=\"1927\">What Your Hands Are Asking (and the Dough's Answers)</h3>\n<table>\n<thead>\n<tr>\n<th><strong>Sensation</strong></th>\n<th><strong>What’s Really Happening</strong></th>\n<th><strong>What You Do</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Glue-sticky, clings aggressively</td>\n<td>Gluten not yet aligned; starches still releasing</td>\n<td>Fold or brief rest (gluten relaxes into order)</td>\n</tr>\n<tr>\n<td>Tacky like a Post-it</td>\n<td>Gluten network forming; dough holds tension</td>\n<td>Keep going gently</td>\n</tr>\n<tr>\n<td>Smooth, stretchy, holds shape</td>\n<td>Strong gluten + balanced hydration</td>\n<td>Let it rise undisturbed</td>\n</tr>\n<tr>\n<td>Tears easily, feels rough</td>\n<td>Overworked gluten tightening or underdeveloped structure</td>\n<td>Rest longer; wet hands if needed</td>\n</tr>\n<tr>\n<td>Dent springs back slowly</td>\n<td>Balanced elasticity + gas inside</td>\n<td>On track. Stop touching it.</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
-            "image": "https://tobbyhagler.com/media/posts/24/IMG_5934-Medium.jpeg",
-            "author": {
-                "name": "Tobby Hagler"
-            },
-            "tags": [
-                   "Sourdough"
-            ],
-            "date_published": "2025-10-30T18:27:00-04:00",
-            "date_modified": "2025-12-26T19:15:51-05:00"
         }
     ]
 }
