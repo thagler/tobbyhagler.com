@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Archive Access — ESS Demeter</title>
+  <meta name="robots" content="noindex, follow">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400&family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0c0c0c;
+      --text: #e6e6e6;
+      --accent: #3b9eea;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Noto Sans', sans-serif;
+      font-weight: 200;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card-main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 3rem 1.5rem;
+      text-align: center;
+    }
+
+    .card-system {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 0.72rem;
+      color: #444;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      margin-bottom: 2.5rem;
+    }
+
+    .card-status {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 1.05rem;
+      color: var(--accent);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 0.62rem;
+    }
+
+    .card-sub {
+      font-size: 0.96rem;
+      color: #666;
+      margin-bottom: 2.5rem;
+      line-height: 1.6;
+      max-width: 340px;
+    }
+
+    .card-cta {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 0.78rem;
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      padding: 0.7rem 1.5rem;
+      border-radius: 2px;
+      text-decoration: none;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    .card-cta:hover {
+      background: var(--accent);
+      color: #000;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem 1rem;
+      font-size: 0.8rem;
+      color: #333;
+    }
+
+    footer a {
+      color: #333;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <main class="card-main">
+    <div class="card-system">ESS Demeter &mdash; Archive System</div>
+    <div class="card-status">Partial Access Granted</div>
+    <div class="card-sub">Recovered materials from onboard systems. Proceed to archive.</div>
+    <a href="https://thegroveoftauceti.com/archive/" class="card-cta">Proceed to Archive</a>
+  </main>
+
+  <footer>
+    <a href="https://thegroveoftauceti.com">thegroveoftauceti.com</a>
+  </footer>
+
+</body>
+</html>
