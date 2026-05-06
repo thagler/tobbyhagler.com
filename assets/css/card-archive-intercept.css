@@ -1,0 +1,389 @@
+/*
+ * Restricted archive intercept overlay for printed business-card traffic.
+ * Loaded only after the card UTM markers are detected by card-archive-intercept.js.
+ */
+
+html.card-archive-intercept-lock,
+body.card-archive-intercept-lock {
+	overflow: hidden;
+}
+
+body.card-archive-intercept-interfering > :not(.card-archive-intercept) {
+	filter: contrast(1.18) brightness(0.9) saturate(0.68);
+	animation: cardArchivePageJitter 120ms steps(2, end) infinite;
+}
+
+body.card-archive-intercept-active > :not(.card-archive-intercept) {
+	filter: blur(7px) brightness(0.42) saturate(0.72);
+	transition: filter 380ms ease;
+	animation: none;
+}
+
+.card-archive-intercept {
+	--card-archive-routing-duration: 6500ms;
+	position: fixed;
+	inset: 0;
+	z-index: 2147483647;
+	display: grid;
+	place-items: center;
+	padding: clamp(1.5rem, 4vw, 4rem);
+	background: transparent;
+	color: #dce8f3;
+	font-family: "Public Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+	letter-spacing: 0;
+	opacity: 1;
+	overflow: hidden;
+	pointer-events: none;
+	transition: background 360ms ease, backdrop-filter 360ms ease;
+}
+
+.card-archive-intercept--interfering {
+	background: rgba(3, 8, 13, 0.08);
+	backdrop-filter: blur(0.8px);
+	-webkit-backdrop-filter: blur(0.8px);
+}
+
+.card-archive-intercept--resolved {
+	pointer-events: auto;
+	background:
+		radial-gradient(circle at 50% 38%, rgba(67, 119, 157, 0.18), transparent 34rem),
+		linear-gradient(180deg, rgba(5, 10, 16, 0.9), rgba(2, 5, 9, 0.96));
+	backdrop-filter: blur(12px);
+	-webkit-backdrop-filter: blur(12px);
+}
+
+.card-archive-intercept::before,
+.card-archive-intercept::after {
+	content: "";
+	position: absolute;
+	inset: 0;
+	pointer-events: none;
+	opacity: 0;
+}
+
+.card-archive-intercept--interfering::before {
+	background:
+		repeating-linear-gradient(0deg, rgba(205, 229, 244, 0.11) 0 1px, transparent 1px 5px),
+		repeating-linear-gradient(90deg, rgba(205, 229, 244, 0.04) 0 1px, transparent 1px 14px);
+	mix-blend-mode: screen;
+	opacity: 0.44;
+	animation: cardArchiveStaticInterrupt 110ms steps(2, end) infinite;
+}
+
+.card-archive-intercept--interfering::after {
+	background:
+		linear-gradient(180deg, transparent 0 18%, rgba(148, 196, 229, 0.16) 18.2% 18.7%, transparent 19% 46%, rgba(230, 244, 255, 0.12) 46.2% 47.4%, transparent 48% 74%, rgba(105, 164, 205, 0.16) 74.2% 75%, transparent 75.4%),
+		linear-gradient(90deg, transparent 0 10%, rgba(185, 222, 246, 0.08) 11%, transparent 14% 100%);
+	mix-blend-mode: screen;
+	opacity: 0.62;
+	animation: cardArchiveInterferenceBands 520ms steps(3, end) infinite;
+}
+
+.card-archive-intercept--resolved::before {
+	background:
+		linear-gradient(rgba(181, 213, 234, 0.035) 1px, transparent 1px),
+		linear-gradient(90deg, rgba(181, 213, 234, 0.02) 1px, transparent 1px);
+	background-size: 100% 4px, 32px 100%;
+	mix-blend-mode: screen;
+	opacity: 0.5;
+}
+
+.card-archive-intercept--resolved::after {
+	background:
+		radial-gradient(circle at 50% 50%, transparent 0, rgba(0, 0, 0, 0.46) 78%),
+		linear-gradient(90deg, transparent, rgba(127, 171, 202, 0.08), transparent);
+	opacity: 1;
+	transform: translateX(-22%);
+	animation: cardArchiveSignalSweep 2.4s ease-in-out infinite;
+}
+
+.card-archive-intercept__interference {
+	position: absolute;
+	inset: -8%;
+	z-index: 1;
+	opacity: 0;
+	pointer-events: none;
+	transition: opacity 140ms ease;
+}
+
+.card-archive-intercept--interfering .card-archive-intercept__interference {
+	opacity: 1;
+}
+
+.card-archive-intercept__interference::before,
+.card-archive-intercept__interference::after {
+	content: "";
+	position: absolute;
+	left: -4%;
+	right: -4%;
+	height: 1px;
+	background: rgba(211, 234, 249, 0.7);
+	box-shadow:
+		0 4.2rem 0 rgba(124, 181, 221, 0.34),
+		0 8.7rem 0 rgba(211, 234, 249, 0.42),
+		0 13.6rem 0 rgba(124, 181, 221, 0.28),
+		0 18.9rem 0 rgba(211, 234, 249, 0.34);
+	mix-blend-mode: screen;
+}
+
+.card-archive-intercept__interference::before {
+	top: 18%;
+	animation: cardArchiveLineDrift 420ms steps(2, end) infinite;
+}
+
+.card-archive-intercept__interference::after {
+	top: 37%;
+	opacity: 0.7;
+	animation: cardArchiveLineDrift 360ms steps(3, end) infinite reverse;
+}
+
+.card-archive-intercept__panel {
+	position: relative;
+	z-index: 2;
+	width: min(31rem, 100%);
+	border: 1px solid rgba(145, 181, 207, 0.24);
+	background: rgba(6, 13, 21, 0.5);
+	box-shadow:
+		0 0 60px rgba(27, 74, 112, 0.18),
+		inset 0 0 32px rgba(123, 169, 203, 0.035);
+	opacity: 0;
+	padding: clamp(1.45rem, 5vw, 2.4rem);
+	pointer-events: none;
+	text-align: left;
+	transform: translateY(0.7rem) scale(0.992);
+	transition: opacity 320ms ease, transform 380ms ease;
+}
+
+.card-archive-intercept--resolved .card-archive-intercept__panel {
+	opacity: 1;
+	pointer-events: auto;
+	transform: translateY(0) scale(1);
+}
+
+.card-archive-intercept__system {
+	color: rgba(179, 203, 221, 0.58);
+	font-size: 0.68rem;
+	font-weight: 600;
+	letter-spacing: 0.18em;
+	line-height: 1.4;
+	text-transform: uppercase;
+}
+
+.card-archive-intercept__title {
+	margin-top: 1.35rem;
+	color: #eef7ff;
+	font-size: clamp(1.15rem, 6vw, 1.75rem);
+	font-weight: 700;
+	letter-spacing: 0.11em;
+	line-height: 1.2;
+	text-transform: uppercase;
+	text-shadow: 0 0 22px rgba(94, 154, 197, 0.22);
+}
+
+.card-archive-intercept__copy {
+	margin-top: 1.1rem;
+	color: rgba(220, 232, 243, 0.78);
+	font-size: clamp(0.94rem, 4vw, 1.02rem);
+	line-height: 1.65;
+}
+
+.card-archive-intercept__copy p {
+	margin: 0;
+}
+
+.card-archive-intercept__copy p + p {
+	margin-top: 0.18rem;
+}
+
+.card-archive-intercept__cta {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: auto;
+	min-height: 2.55rem;
+	margin-top: 1.45rem;
+	border: 1px solid rgba(132, 191, 230, 0.7);
+	border-radius: 2px;
+	background: rgba(11, 28, 42, 0.38);
+	color: #dcefff;
+	cursor: pointer;
+	font: inherit;
+	font-size: 0.72rem;
+	font-weight: 700;
+	letter-spacing: 0.16em;
+	line-height: 1.2;
+	padding: 0.78rem 1rem;
+	text-align: center;
+	text-transform: uppercase;
+	transition: background 160ms ease, border-color 160ms ease, box-shadow 160ms ease, color 160ms ease;
+}
+
+.card-archive-intercept__cta:hover,
+.card-archive-intercept__cta:focus {
+	background: rgba(39, 88, 124, 0.42);
+	border-color: rgba(178, 220, 247, 0.95);
+	box-shadow: 0 0 24px rgba(87, 150, 194, 0.2);
+	color: #ffffff;
+	outline: none;
+}
+
+.card-archive-intercept__cta:focus-visible {
+	outline: 2px solid rgba(178, 220, 247, 0.8);
+	outline-offset: 3px;
+}
+
+.card-archive-intercept__routing {
+	display: flex;
+	align-items: center;
+	gap: 0.75rem;
+	margin-top: 1.2rem;
+	color: rgba(133, 180, 215, 0.9);
+	font-size: 0.77rem;
+	font-weight: 650;
+	letter-spacing: 0.17em;
+	text-transform: uppercase;
+}
+
+.card-archive-intercept__routing::before {
+	content: "";
+	width: 0.46rem;
+	height: 0.46rem;
+	border-radius: 50%;
+	background: #77b6df;
+	box-shadow: 0 0 18px rgba(119, 182, 223, 0.8);
+	animation: cardArchivePulse 900ms ease-in-out infinite;
+}
+
+.card-archive-intercept__trace {
+	position: relative;
+	height: 1px;
+	margin-top: 1.45rem;
+	overflow: hidden;
+	background: rgba(145, 181, 207, 0.16);
+}
+
+.card-archive-intercept__trace-fill {
+	position: absolute;
+	inset: 0;
+	display: block;
+	background: linear-gradient(90deg, rgba(82, 136, 175, 0.36), rgba(132, 191, 230, 0.9));
+	box-shadow: 0 0 18px rgba(99, 166, 213, 0.34);
+	transform: scaleX(0);
+	transform-origin: left center;
+}
+
+.card-archive-intercept--resolved .card-archive-intercept__trace-fill {
+	animation: cardArchiveTraceLoad var(--card-archive-routing-duration) linear forwards;
+}
+
+.card-archive-intercept__trace-fill::after {
+	content: "";
+	position: absolute;
+	inset: 0;
+	width: 30%;
+	background: linear-gradient(90deg, transparent, rgba(229, 245, 255, 0.72), transparent);
+	animation: cardArchiveTraceSweep 1.35s ease-in-out infinite;
+}
+
+@keyframes cardArchivePageJitter {
+	0% {
+		transform: translate3d(0, 0, 0);
+	}
+
+	40% {
+		transform: translate3d(0.16rem, -0.03rem, 0);
+	}
+
+	70% {
+		transform: translate3d(-0.1rem, 0.04rem, 0);
+	}
+}
+
+@keyframes cardArchiveStaticInterrupt {
+	0% {
+		transform: translate3d(-0.55%, -0.2%, 0);
+		filter: brightness(1.45);
+	}
+
+	50% {
+		transform: translate3d(0.35%, 0.45%, 0);
+		filter: brightness(0.78);
+	}
+
+	100% {
+		transform: translate3d(0.1%, -0.35%, 0);
+		filter: brightness(1.15);
+	}
+}
+
+@keyframes cardArchiveInterferenceBands {
+	0% {
+		transform: translateY(-0.8rem);
+	}
+
+	50% {
+		transform: translateY(0.55rem);
+	}
+
+	100% {
+		transform: translateY(-0.2rem);
+	}
+}
+
+@keyframes cardArchiveLineDrift {
+	0% {
+		transform: translate3d(-8%, 0, 0) scaleX(0.82);
+	}
+
+	60% {
+		transform: translate3d(9%, 0.5rem, 0) scaleX(1.08);
+	}
+
+	100% {
+		transform: translate3d(2%, -0.3rem, 0) scaleX(0.94);
+	}
+}
+
+@keyframes cardArchiveSignalSweep {
+	50% {
+		transform: translateX(18%);
+		opacity: 0.75;
+	}
+}
+
+@keyframes cardArchivePulse {
+	50% {
+		opacity: 0.45;
+		transform: scale(0.72);
+	}
+}
+
+@keyframes cardArchiveTraceLoad {
+	to {
+		transform: scaleX(1);
+	}
+}
+
+@keyframes cardArchiveTraceSweep {
+	from {
+		transform: translateX(-120%);
+	}
+
+	to {
+		transform: translateX(320%);
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	body.card-archive-intercept-interfering > :not(.card-archive-intercept),
+	.card-archive-intercept--interfering::before,
+	.card-archive-intercept--interfering::after,
+	.card-archive-intercept--resolved::after,
+	.card-archive-intercept__interference::before,
+	.card-archive-intercept__interference::after,
+	.card-archive-intercept__routing::before,
+	.card-archive-intercept__trace-fill::after {
+		animation-duration: 1ms;
+		animation-iteration-count: 1;
+	}
+}
