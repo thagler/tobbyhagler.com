@@ -3,7 +3,7 @@
     <title>Tobby Hagler</title>
     <link href="https://tobbyhagler.com/feed.xml" rel="self" />
     <link href="https://tobbyhagler.com" />
-    <updated>2026-06-24T22:12:22-04:00</updated>
+    <updated>2026-06-24T22:19:48-04:00</updated>
     <author>
         <name>Tobby Hagler</name>
     </author>
@@ -16,6 +16,8 @@
         </author>
         <link href="https://tobbyhagler.com/posts/the-grove-sequel/"/>
         <id>https://tobbyhagler.com/posts/the-grove-sequel/</id>
+            <category term="Writing"/>
+            <category term="The Grove of Tau Ceti"/>
 
         <updated>2026-06-24T22:10:04-04:00</updated>
             <summary type="html">
