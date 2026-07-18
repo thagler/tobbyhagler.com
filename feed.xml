@@ -1,14 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Tobby Hagler</title>
+    <title>TobbyHagler.com</title>
     <link href="https://tobbyhagler.com/feed.xml" rel="self" />
     <link href="https://tobbyhagler.com" />
-    <updated>2026-06-24T22:21:04-04:00</updated>
+    <updated>2026-07-17T21:09:03-04:00</updated>
     <author>
         <name>Tobby Hagler</name>
     </author>
     <id>https://tobbyhagler.com</id>
 
+    <entry>
+        <title>New Project in the Works</title>
+        <author>
+            <name>Tobby Hagler</name>
+        </author>
+        <link href="https://tobbyhagler.com/posts/new-project-in-the-works/"/>
+        <id>https://tobbyhagler.com/posts/new-project-in-the-works/</id>
+            <category term="Writing"/>
+            <category term="Frankie and the Goblin King"/>
+            <category term="Frankie"/>
+
+        <updated>2026-07-17T20:40:35-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <figure class="post__image post__image--right"><img loading="lazy"  src="https://tobbyhagler.com/media/posts/36/frankie-avatar-hex-256.png" alt="" width="256" height="256" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://tobbyhagler.com/media/posts/36/responsive/frankie-avatar-hex-256-xs.png 320w ,https://tobbyhagler.com/media/posts/36/responsive/frankie-avatar-hex-256-sm.png 480w ,https://tobbyhagler.com/media/posts/36/responsive/frankie-avatar-hex-256-md.png 768w ,https://tobbyhagler.com/media/posts/36/responsive/frankie-avatar-hex-256-xl.png 1024w"></figure>
+<p>I'm happy to announce that I have a new project in the works: <em>Frankie and the Goblin King.</em></p>
+<p>Frankie is a very good dog with a very bad problem. A deposed goblin king has taken up residence in his back leg, and when the King’s royal advice gets Frankie hauled into an animal shelter, the mismatched pair must learn to share four legs, outwit a ticking clock, and lead a pack of dogs toward a farm that may be more bedtime story than refuge.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--right"><img loading="lazy"  src="https://tobbyhagler.com/media/posts/36/frankie-avatar-hex-256.png" alt="" width="256" height="256" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://tobbyhagler.com/media/posts/36/responsive/frankie-avatar-hex-256-xs.png 320w ,https://tobbyhagler.com/media/posts/36/responsive/frankie-avatar-hex-256-sm.png 480w ,https://tobbyhagler.com/media/posts/36/responsive/frankie-avatar-hex-256-md.png 768w ,https://tobbyhagler.com/media/posts/36/responsive/frankie-avatar-hex-256-xl.png 1024w"></figure>
+<p>I'm happy to announce that I have a new project in the works: <em>Frankie and the Goblin King.</em></p>
+<p>Frankie is a very good dog with a very bad problem. A deposed goblin king has taken up residence in his back leg, and when the King’s royal advice gets Frankie hauled into an animal shelter, the mismatched pair must learn to share four legs, outwit a ticking clock, and lead a pack of dogs toward a farm that may be more bedtime story than refuge.</p>
+
+<p>I've been writing pieces of a novella about Frankie, a good but perhaps naïve dog who accidentally summons the deposed king of the Goblin realm, who happens to be looking for a place to hide. Frankie's broken leg seems like the perfect place, and the instant it heals, their bond is solidified. Neither can escape the other... and trust me, they would both love it if they could.</p>
+<p>I've decided to commit the next few months to this cozy paranormal horror story, and I'll likely be finished with the first draft in the next 2-3 months.</p>
+<p>I'm pretty excited about this one!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Grove of Tau Ceti Sequel</title>
         <author>
@@ -437,34 +469,6 @@
 <p data-start="803" data-end="867"><strong data-start="803" data-end="839">Not apologizing for writing time</strong><br data-start="839" data-end="842">It's okay to write. I don't "need" permission. I shouldn't feel guilty for writing. </p>
 </li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Making Things That Take the Time They Take</title>
-        <author>
-            <name>Tobby Hagler</name>
-        </author>
-        <link href="https://tobbyhagler.com/posts/making-things-that-take-the-time-they-take/"/>
-        <id>https://tobbyhagler.com/posts/making-things-that-take-the-time-they-take/</id>
-            <category term="Writing"/>
-
-        <updated>2025-11-15T13:20:00-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p data-start="121" data-end="380">Some things come together fast. Other things take their sweet time. There's no way to know until you commit to writing it.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p data-start="121" data-end="380">Some things come together fast. Other things take their sweet time. There's no way to know until you commit to writing it.</p>
-
-<p data-start="121" data-end="380">I wrote "Sin-Eater Claws" for <a href="https://www.underlandpress.com/kozy-krampus/" target="_blank" rel="noopener noreferrer"><em>Kozy Krampus</em></a> in a single weekend. When it showed up, it was ready to go. But then one of my favorite flash pieces, "So: No Fix," has been stuck on the struggle bus for months.</p>
-<p data-start="121" data-end="380">They're given the same love, the same levels of inspiration, and they share the same desire to tell the story. They just come at very different speeds.</p>
-<p data-start="382" data-end="546">I'm not exactly sure why this is. It's not writer's block -- that dreadful experience of not knowing the characters or story well enough to tell it yet. Instead, it's this inexplicable feeling of "why the Hell isn't this done yet?"</p>
-<p data-start="548" data-end="700">I’m learning to stop rushing the slow ones or doubting the fast ones. If a story needs more time, that doesn’t mean it’s broken. It just isn’t done yet. And just because it comes to life in a day doesn't mean it's half-cocked.</p>
-<p data-start="702" data-end="743">The thing I'm constantly trying to remind myself: "Things take the time they take. Let them."</p>
             ]]>
         </content>
     </entry>
